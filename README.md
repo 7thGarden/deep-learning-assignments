@@ -1,3 +1,3 @@
 # deep-learning-assignment-01-IITG-internship
 
-This assignment consist of all the 5 assignment questions of DEEP LEARNING
+This assignment consist of all the 5 assignment questions of DEEP LEARNING assigned at IIT Guwahati
